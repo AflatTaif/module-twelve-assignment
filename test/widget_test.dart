@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:photo_gallery_api_assignment/main.dart';
+import 'package:module_eleven_assignment/main.dart';
 
 
 void main() {
